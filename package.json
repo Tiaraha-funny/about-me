@@ -1,0 +1,24 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "This project is telling only about myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiaraha-funny/about-me.git"
+  },
+  "author": "Peta Jeannie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiaraha-funny/about-me/issues"
+  },
+  "homepage": "https://github.com/Tiaraha-funny/about-me#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
